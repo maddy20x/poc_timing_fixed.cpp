@@ -1,0 +1,33 @@
+# Compiled binaries
+poc_timing
+*.o
+*.exe
+*.out
+
+# Build directories
+build/
+bin/
+obj/
+dist/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.log
+*.cache
+*.temp
+
+# Backup files
+*.bak
+*.backup
