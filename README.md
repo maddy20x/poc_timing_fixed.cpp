@@ -22,4 +22,8 @@ const ecc_point_t& Ubi = b[i] ? U1[i] : U0[i];
 ```bash
 git clone https://github.com/maddy20x/poc_timing_fixed.cpp.git
 cd poc_timing_fixed.cpp
+# Make build.sh executable
+chmod +x build.sh
+
+# Now you can run it directly
 ./build.sh
